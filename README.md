@@ -1,4 +1,4 @@
-# jquery.speak.js
+## jquery.speak
 
 Chrome can speak, and this plugin makes it dead simple.
 
@@ -6,4 +6,5 @@ Chrome can speak, and this plugin makes it dead simple.
 $('#message').speak();
 ```
 
-Enjoy!
+**Bower** 
+`jquery.speak`
