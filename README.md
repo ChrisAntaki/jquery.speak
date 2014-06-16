@@ -7,4 +7,3 @@ $('#message').speak();
 ```
 
 Enjoy!
-Chris
