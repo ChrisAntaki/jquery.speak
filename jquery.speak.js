@@ -13,6 +13,8 @@
 
 	$.speak = speak;
 
+	$.speak.talkative = talkative;
+
 	$.fn.speak = function() {
 		var message = this.val() || this.text();
 
